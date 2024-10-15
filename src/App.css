@@ -1,0 +1,19 @@
+
+table{
+  margin: auto;
+  margin-top: 50px;
+  width: 800px;
+}
+
+th{
+  color: orange;
+  font-size: 30px;
+}
+
+td{
+  font-size: 20px;
+}
+
+.td-text1{
+  text-align: center;
+}
